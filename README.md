@@ -42,9 +42,9 @@ Sankey Diagram: Visualize customer flows from foot traffic to revenue.
 - Jupyter Notebook: For exploratory data analysis.
 
 ## 📊 Visualizations
-- **Correlation Heatmap**
-- **Revenue Contribution**
-- **Conversion Rate Over Time**
+- Correlation Heatmap
+- Revenue Contribution
+- Conversion Rate Over Time
 
 ## 📜 License
 MIT License
