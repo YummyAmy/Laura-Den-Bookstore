@@ -16,7 +16,7 @@ Interactive Visualizations: Explore insights using Dash and Plotly.
 Sankey Diagram: Visualize customer flows from foot traffic to revenue.
 
 ## Project Structure
-📂 Laura-Den-Bookstore-Analysis/
+``` 📂 Laura-Den-Bookstore-Analysis/
 ├── 📁 data/
 │   └── 📄 Laura_Den.csv          # The dataset used for analysis
 ├── 📁 notebooks/
@@ -32,7 +32,7 @@ Sankey Diagram: Visualize customer flows from foot traffic to revenue.
 │       └── 🎨 style.css          # Optional: Custom CSS for styling
 ├── 📄 README.md                  # Project documentation
 └── 📄 requirements.txt           # Python dependencies
-
+```
 ## 🛠️ Technologies Used
 - Python: Core language for analysis and visualization.
 - Dash: Framework for building interactive dashboards ***
